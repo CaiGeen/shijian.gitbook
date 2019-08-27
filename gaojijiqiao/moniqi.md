@@ -1,0 +1,38 @@
+---
+description: 不拿手机，在电脑上用安卓模拟器操作TimeTrack
+---
+
+# 远程操作——怎样用电脑控制手机操作软件
+
+aTimeLogger＆TimeTrack数据互通，拥有Web版本。
+
+链接：[http://timer.ninja](http://timer.ninja)
+
+但是Web端还不完善，操作不方便，不推荐。
+
+* 替代方法1：使用电脑版APK模拟器
+
+下载“[网易MuMu模拟器](http://mumu.163.com/)”，[下载安装TimeTrack的APK](https://share.weiyun.com/5Bo75R6)，在电脑端模拟手机操作。
+
+![](../.gitbook/assets/tu-pian%20%28143%29.png)
+
+![](../.gitbook/assets/tu-pian%20%28141%29.png)
+
+1. 在MuMu选择安装APK
+2. 登录TimeTrack账号，等待同步
+3. 软件修改默认设置
+4. 主要计时器=总共时间
+5. 次要计时器=不设置
+6. 每行图标=6个，或者调整APK模拟器右下角旋转屏幕
+7. 每周开始第一天=周一
+8. 显示秒
+9. Display seconds in report
+10. 设置完成后杀掉进程，在模拟器中重启
+11. 在模拟器中新开活动，手机端杀掉进程重启，观察是否同步
+
+* 替代方法2：使用远程控制软件，如“Teamviewer”、“Total Control”。
+
+详情见这篇文章：《[手机半死不活的抢救方案](https://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247485175&idx=1&sn=6f797d8920c4949243889c768bdaf975&chksm=eb21b4b3dc563da5823d058fb67895d4957ab46082d99914ed767a2a2d65219469eb2fcb3c3a#rd)》
+
+安卓Root后可用，iOS暂时没有，只能用模拟器。
+
