@@ -8,17 +8,17 @@ description: 柳比歇夫时间记录法实践手册，TimeTrack从入门到精�
 
 内容简介：分享如何使用TimeTrack/aTimeLogger软件记录时间，提高时间感知度，进入“记录-归类-分析-改变”正向循环，主动控制时间流向，最终达成目标的方法。
 
-数据说明：本书中示例均为脱敏数据，不具有现实意义，仅供参考。
+数据说明：本书中**示例均为脱敏数据**，不具有现实意义，仅供参考。
 
 全文字数：六章，52节，4.5万字
 
-作者：涂俊杰，公众号“百天自律行动”
-
 软件环境：TimeTrack\_v1.6.8.19，iOS 12，Windows 10
 
-书稿校对时间：2019-8-27 22:16:26
+最新校对时间：2019-8-27 22:16:26
 
-我的微信：ffeels
+作者：[@涂俊杰](https://www.zhihu.com/people/Zh_Miao/answers)，公众号“百天自律行动”
+
+![&#x5DE6;&#x8FB9;&#x79C1;&#x4EBA;&#x5FAE;&#x4FE1;&#xFF0C;&#x53F3;&#x8FB9;&#x516C;&#x4F17;&#x53F7;](.gitbook/assets/tu-pian%20%281%29.png)
 
 ### 目录
 
@@ -82,6 +82,4 @@ description: 柳比歇夫时间记录法实践手册，TimeTrack从入门到精�
   * [50.其他时间记录软件](https://shijian.tujunjie.com/ch06/ch06.50)
   * [51.万物互联，未来的时间记录畅想](https://shijian.tujunjie.com/ch06/ch06.51)
   * [52.关于时间的4条新观点](https://shijian.tujunjie.com/ch06/ch06.52)
-
-![&#x79C1;&#x4EBA;&#x5FAE;&#x4FE1;&#xFF0C;&#x8BF7;&#x6CE8;&#x660E;&#x6765;&#x610F;](.gitbook/assets/qq-tu-pian-20190808222518.jpg)
 
