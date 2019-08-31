@@ -14,7 +14,7 @@ description: 柳比歇夫时间记录法实践手册，TimeTrack从入门到精�
 
 软件环境：TimeTrack\_v1.6.8.19，iOS 12，Windows 10
 
-最新校对时间：2019-8-27 22:16:26
+最新校对时间：2019-8-31 15:35:37
 
 作者：[@涂俊杰](https://www.zhihu.com/people/Zh_Miao/answers)，公众号“百天自律行动”
 
