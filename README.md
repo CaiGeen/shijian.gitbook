@@ -23,7 +23,7 @@ description: 柳比歇夫时间记录法实践手册，TimeTrack从入门到精�
 ### 目录
 
 * [关于本书](https://shijian.tujunjie.com/)
-* [前言](https://shijian.tujunjie.com/ch0)
+* [前言](https://shijian.tujunjie.com/ch.start)
 * [第一章：开始之前](https://shijian.tujunjie.com/ch01)
   * [1.我的时间记录启蒙老师](https://shijian.tujunjie.com/ch01/ch01.01)
   * [2.谁能坚持时间记录56年](https://shijian.tujunjie.com/ch01/ch01.02)
@@ -82,4 +82,6 @@ description: 柳比歇夫时间记录法实践手册，TimeTrack从入门到精�
   * [50.其他时间记录软件](https://shijian.tujunjie.com/ch06/ch06.50)
   * [51.万物互联，未来的时间记录畅想](https://shijian.tujunjie.com/ch06/ch06.51)
   * [52.关于时间的4条新观点](https://shijian.tujunjie.com/ch06/ch06.52)
+* [后记](https://shijian.tujunjie.com/ch.end)
+* [特别推荐](https://shijian.tujunjie.com/add.01)
 
