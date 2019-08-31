@@ -46,5 +46,3 @@ Python训练营官网：https://py.101.camp/\#101camp
 
 报名链接：http://t.cn/AiR74CNq
 
-> 福利：报名时说“涂俊杰”推荐，可减免学费99元！
-
