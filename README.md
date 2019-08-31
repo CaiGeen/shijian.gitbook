@@ -16,7 +16,7 @@ description: 柳比歇夫时间记录法实践手册，TimeTrack从入门到精�
 
 最新校对时间：2019-8-31 15:35:37
 
-作者：[@涂俊杰](https://www.zhihu.com/people/Zh_Miao/answers)，公众号“百天自律行动”
+作者：[@涂俊杰](https://images-cdn.shimo.im/bcZweXjXqAgmE1Ve/QQ%E5%9B%BE%E7%89%8720190829213608.jpg)，公众号“百天自律行动”
 
 ![&#x5DE6;&#x8FB9;&#x79C1;&#x4EBA;&#x5FAE;&#x4FE1;&#xFF0C;&#x53F3;&#x8FB9;&#x516C;&#x4F17;&#x53F7;](.gitbook/assets/tu-pian%20%281%29.png)
 
