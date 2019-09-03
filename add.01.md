@@ -36,6 +36,8 @@ Zoom.Quiet是真·Python大牛！
 
 Python训练营官网：https://py.101.camp/\#101camp
 
+课程介绍：http://t.cn/AiRoJRnR
+
 > 福利：扫码报名时在“引荐”处填写“涂俊杰”，可减免学费99元！
 
 ### 极速写作 - 剑飞
