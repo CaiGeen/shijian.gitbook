@@ -12,7 +12,7 @@ Leo是国内使用Anki的大神，如果你想学习Anki，提高学习效率，
 
 公众号：学习骇客
 
-![Anki&#x5B66;&#x4E60;&#x76EE;&#x5F55;](.gitbook/assets/6401-kan-tu-wang-.web.png)
+![Anki&#x5B66;&#x4E60;&#x76EE;&#x5F55;](.gitbook/assets/6401-kan-tu-wang-.web%20%281%29.png)
 
 详细的课程介绍请看：http://t.cn/E9jAU3n
 
