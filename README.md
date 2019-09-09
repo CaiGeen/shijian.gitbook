@@ -10,9 +10,9 @@ description: 柳比歇夫时间记录法实践手册，TimeTrack从入门到精�
 
 数据说明：本书中**示例均为脱敏数据**，不具有现实意义，仅供参考。
 
-全文字数：六章，53节，4.9万字
+全文字数：六章，53节，5万字
 
-软件环境：[TimeTrack\_v1.6.8.19](http://timetrack.io/)，iOS 12，Windows 10
+软件环境：TimeTrack（[常见问题答疑](https://shijian.tujunjie.com/ch06/ch06.47)），iOS 12，Windows 10
 
 最新校对时间：2019-8-31 16:19:40
 
