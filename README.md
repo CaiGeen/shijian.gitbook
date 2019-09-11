@@ -85,5 +85,6 @@ description: 柳比歇夫时间记录法实践手册，TimeTrack从入门到精�
   * [51.万物互联，未来的时间记录畅想](https://shijian.tujunjie.com/ch06/ch06.51)
   * [52.关于时间的4条新观点](https://shijian.tujunjie.com/ch06/ch06.52)
 * [后记](https://shijian.tujunjie.com/ch.end)
+* [软件付费](https://shijian.tujunjie.com/donate)
 * [特别推荐](https://shijian.tujunjie.com/add.01)
 
