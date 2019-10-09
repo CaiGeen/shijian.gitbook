@@ -2,7 +2,7 @@
 description: aTimeLogger一次支付永久使用，TimeTrack订阅制支付
 ---
 
-# 软件捐助
+# 软件付费
 
 aTimeLogger捐助地址：http://t.cn/AiCeGfdx
 
