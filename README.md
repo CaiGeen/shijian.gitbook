@@ -16,7 +16,7 @@ description: 柳比歇夫时间记录法实践手册，TimeTrack从入门到精�
 
 最新校对时间：2019-8-31 16:19:40
 
-[PDF、EPUB、MOBI电子书下载链接](http://suo.im/4x3W4n)，感谢@栗少制作！
+[PDF、EPUB、MOBI电子书下载链接](https://share.weiyun.com/5rv9h5Y)，感谢群成员@栗少@柳制作！
 
 作者：[@涂俊杰](https://images-cdn.shimo.im/SAphQSbZkjUXGrcs/QQ%E5%9B%BE%E7%89%8720190910202220.jpg)，公众号“百天自律行动”
 
