@@ -40,11 +40,9 @@ Zoom.Quiet是真·Python大牛！
 
 用Python17年，培训经验13年，这可不是新兴的讲师，而是元老级的实践者。
 
-推荐他亲自带的Python入门训练营，9月下旬开营，6周时间帮你上手Python
+推荐他亲自带的Python入门训练营，可以扫码加他的免费星球参观！
 
-今天大妈的Python入门训练营开始招生了，他亲自带，9月下旬开营，6周时间帮你上手Python项目！
-
-![&#x626B;&#x7801;&#x62A5;&#x540D;](.gitbook/assets/qq-tu-pian-20190831144518.jpg)
+![&#x626B;&#x7801;&#x52A0;&#x5165;&#x77E5;&#x8BC6;&#x661F;&#x7403;](.gitbook/assets/wei-xin-tu-pian-20191023221837.png)
 
 ![&#x8BFE;&#x7A0B;&#x7B80;&#x4ECB;](.gitbook/assets/qq-tu-pian-20190831144404.png)
 
