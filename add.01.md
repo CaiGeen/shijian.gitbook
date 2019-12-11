@@ -18,6 +18,8 @@ description: 只推荐靠谱的人和课
 
 ![&#x804C;&#x573A;&#x6548;&#x7387;&#x8BFE;&#x7A0B;&#x5927;&#x7EB2;](.gitbook/assets/qq-jie-tu-20190909211553.png)
 
+![&#x65B0;&#x624B;&#x5982;&#x4F55;&#x5236;&#x5B9A;&#x5E74;&#x5EA6;&#x8BA1;&#x5212;&#xFF0C;19.9&#x5143;](.gitbook/assets/qq-tu-pian-20191211225837.jpg)
+
 > 福利：直接微信我报名有**5折优惠**！
 
 ### Anki - Leo
