@@ -10,9 +10,13 @@ description: 只推荐靠谱的人和课
 
 还是先推一波自己的课程，每门付费课都是干货无废话，剪掉了95%语气词。
 
+* [《Excel自动化报表实操课》](https://www.aikewang.com/course/14)
+
 ![&#x76F4;&#x63A5;&#x627E;&#x6211;&#x62A5;&#x540D;199&#x5143;/&#x95E8;](.gitbook/assets/qq-jie-tu-20190909211054.png)
 
 ![Excel&#x8BFE;&#x7A0B;&#x5927;&#x7EB2;](.gitbook/assets/qq-jie-tu-20190909211509.png)
+
+* [《  互联网职场效率手册》](https://www.aikewang.com/course/128)
 
 ![&#x76F4;&#x63A5;&#x627E;&#x6211;&#x62A5;&#x540D;149&#x5143;/&#x95E8;](.gitbook/assets/qq-jie-tu-20190909211206.png)
 
@@ -61,4 +65,6 @@ Python训练营官网：https://py.101.camp/\#101camp
 ![&#x626B;&#x7801;&#x6DFB;&#x52A0;&#x5251;&#x98DE;](.gitbook/assets/7c88e202fb284aa61dfd685a30e335e.jpg)
 
 报名链接：http://t.cn/AiR74CNq
+
+★ 时间记录2020年度版报名链接：https://mp.weixin.qq.com/s/2xdoRq2UV4GG03\_U\_SQWtA
 
