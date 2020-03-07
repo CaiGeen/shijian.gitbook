@@ -6,9 +6,9 @@ description: 这些TimeTrack的小技巧，让记录更有趣
 
 《时间去哪儿了：柳比歇夫时间记录法实践手册》
 
-![](../.gitbook/assets/xin-jian-microsoft-powerpoint-huan-deng-pian-fang-ying-kan-tu-wang.jpg)
+![&#x65F6;&#x95F4;&#x8BB0;&#x5F55;&#x8BFE;&#x76EE;&#x5F55;&#xFF06;&#x5B66;&#x5458;&#x8BC4;&#x4EF7;](../.gitbook/assets/2020-103-071_124318.png)
 
-> 本书配套付费视频399元，Excel数据处理和如何分析数据实例讲解更清晰，还能加入VIP指导群！
+> 自己琢磨3个月，不如高手带1天，本书配套10小时视频，扫码报名还能加入VIP指导群！
 
 作者：涂俊杰（微信号:ffeels）
 
@@ -20,5 +20,5 @@ description: 这些TimeTrack的小技巧，让记录更有趣
 
 ![&#x626B;&#x7801;&#x652F;&#x4ED8;](../.gitbook/assets/tu-pian%20%28125%29.png)
 
-
+![&#x626B;&#x7801;&#x540E;&#x53EF;&#x4EE5;&#x9009;&#x62E9;ATM&#x6216;TT&#x4ED8;&#x8D39;](../.gitbook/assets/xtim-tu-pian-20200307125134.jpg)
 

@@ -12,19 +12,19 @@ description: 只推荐靠谱的人和课
 
 * [《Excel自动化报表实操课》](https://www.aikewang.com/course/14)
 
-![&#x76F4;&#x63A5;&#x627E;&#x6211;&#x62A5;&#x540D;199&#x5143;/&#x95E8;](.gitbook/assets/qq-jie-tu-20190909211054.png)
+![&#x76F4;&#x63A5;&#x627E;&#x6211;&#x62A5;&#x540D;299&#x5143;/&#x95E8;](.gitbook/assets/qq-jie-tu-20190909211054.png)
 
 ![Excel&#x8BFE;&#x7A0B;&#x5927;&#x7EB2;](.gitbook/assets/qq-jie-tu-20190909211509.png)
 
 * [《  互联网职场效率手册》](https://www.aikewang.com/course/128)
 
-![&#x76F4;&#x63A5;&#x627E;&#x6211;&#x62A5;&#x540D;149&#x5143;/&#x95E8;](.gitbook/assets/qq-jie-tu-20190909211206.png)
+![&#x626B;&#x7801;&#x62A5;&#x540D;&#x7F51;&#x6613;&#x804C;&#x573A;&#x8BFE;](.gitbook/assets/tim-tu-pian-120200307125757.jpg)
 
 ![&#x804C;&#x573A;&#x6548;&#x7387;&#x8BFE;&#x7A0B;&#x5927;&#x7EB2;](.gitbook/assets/qq-jie-tu-20190909211553.png)
 
 ![&#x65B0;&#x624B;&#x5982;&#x4F55;&#x5236;&#x5B9A;&#x5E74;&#x5EA6;&#x8BA1;&#x5212;&#xFF0C;19.9&#x5143;](.gitbook/assets/qq-tu-pian-20191211225837.jpg)
 
-> 福利：直接微信我报名有**5折优惠**！
+> 福利：直接微信我报名有**优惠**！
 
 ### Anki - Leo
 

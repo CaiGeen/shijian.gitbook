@@ -4,17 +4,19 @@ description: aTimeLogger一次支付永久使用，TimeTrack订阅制支付
 
 # 软件付费
 
-aTimeLogger捐助地址：http://t.cn/AiCeGfdx
+[aTimeLogger＆TimeTrack付费](https://shijian.tujunjie.com/ch06/ch06.47#wo-yong-an-zhuo-timetrack-dan-shi-wu-fa-sheng-ji-zen-me-jie-jue)请扫码：
 
-TimeTrack的链接会晚些上线，不过你也可以通过上面的链接支付。
+iOS下载aTimeLogger时直接付费30元。
 
-TT对应14元=3个月；21元=6个月；35元=1年。
+安卓aTimeLogger支付时，3个价格功能无区别，用户凭喜好支付。
 
-aTimeLogger支付后邮箱收到激活码自助激活，TimeTrack必须联系我激活。
+安卓TimeTrack：
 
-也可直接扫码支付：
+3个月=21元；6个月=35元；1年=58元；2年=68元。
 
-![](.gitbook/assets/tu-pian%20%2867%29.png)
+![&#x626B;&#x7801;&#x652F;&#x4ED8;](.gitbook/assets/tu-pian%20%28125%29.png)
+
+![&#x626B;&#x7801;&#x540E;&#x53EF;&#x4EE5;&#x9009;&#x62E9;ATM&#x6216;TT&#x4ED8;&#x8D39;](.gitbook/assets/xtim-tu-pian-20200307125134.jpg)
 
 支付有疑问请联系我，微信：ffeels
 
