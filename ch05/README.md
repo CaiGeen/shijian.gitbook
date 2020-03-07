@@ -6,7 +6,7 @@ description: 以时间数据为底，你能衡量一切
 
 《时间去哪儿了：柳比歇夫时间记录法实践手册》
 
-![&#x65F6;&#x95F4;&#x8BB0;&#x5F55;&#x8BFE;&#x76EE;&#x5F55;&#xFF06;&#x5B66;&#x5458;&#x8BC4;&#x4EF7;](../.gitbook/assets/2020-103-071_124318.png)
+![&#x626B;&#x7801;&#x770B;&#x65F6;&#x95F4;&#x8BB0;&#x5F55;&#x8BFE;&#x76EE;&#x5F55;&#xFF06;&#x5B66;&#x5458;&#x8BC4;&#x4EF7;](../.gitbook/assets/xin-jian-microsoft-powerpoint-huan-deng-pian-fang-ying-kan-tu-wang%20%281%29.jpg)
 
 > 自己琢磨3个月，不如高手带1天，本书配套10小时视频，扫码报名还能加入VIP指导群！
 
