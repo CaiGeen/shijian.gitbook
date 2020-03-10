@@ -33,6 +33,8 @@ description: 谨以此书，献给让每个普通人都有选择机会的互联�
 > [个人大数据：涂俊杰2017年的8760小时](https://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247484438&idx=1&sn=70dc021c1d0ab16a86625f9bc9677c10&chksm=eb21b652dc563f44e43d0a3e4a2a360747f39dbca58e717c3a5abaff20fe53c561172c774ca0#rd)
 >
 > [个人大数据：涂俊杰2018年的8760小时](https://mp.weixin.qq.com/s/QZEl3droA1o3KP1RLooBqA)
+>
+> [个人大数据：涂俊杰2019年的8760小时](https://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247486123&idx=1&sn=1b7f16dd569747991fa2560aab452c4e&chksm=eb21b8efdc5631f9e1fc4b9266a18b5e6755ba0bdae86d221473d23bc2e6eac7161013c1b55c&token=1292930385&lang=zh_CN#rd)
 
 在所有记录中，最多人赞叹的就是我践行的“柳比歇夫时间记录法”。
 
