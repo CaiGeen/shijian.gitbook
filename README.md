@@ -20,7 +20,7 @@ description: 柳比歇夫时间记录法实践手册，TimeTrack从入门到精�
 
 [PDF、EPUB、MOBI电子书下载链接](https://share.weiyun.com/5rv9h5Y)，感谢群成员@栗少@柳制作！
 
-作者：[@涂俊杰](https://images-cdn.shimo.im/SAphQSbZkjUXGrcs/QQ%E5%9B%BE%E7%89%8720190910202220.jpg)，公众号“百天自律行动”
+作者：@涂俊杰，公众号“百天自律行动”
 
 ![](.gitbook/assets/about-1.png)
 
