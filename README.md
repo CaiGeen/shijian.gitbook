@@ -92,6 +92,7 @@ Links to ebooks in English：《[Where time goes:Track your time flow](https://e
   * [50.其他时间记录软件](https://shijian.tujunjie.com/ch06/ch06.50)
   * [51.万物互联，未来的时间记录畅想](https://shijian.tujunjie.com/ch06/ch06.51)
   * [52.关于时间的4条新观点](https://shijian.tujunjie.com/ch06/ch06.52)
+  * [53.把时间记录法运用到生活中](https://shijian.tujunjie.com/ch06/ch06.53)
 * [后记](https://shijian.tujunjie.com/ch.end)
 * [特别推荐](https://shijian.tujunjie.com/add.01)
 * [软件付费](https://shijian.tujunjie.com/add.02)
