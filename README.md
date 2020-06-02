@@ -24,7 +24,7 @@ description: 柳比歇夫时间记录法实践手册，TimeTrack从入门到精�
 
 [PDF、EPUB、MOBI电子书下载链接](https://share.weiyun.com/5rv9h5Y)，感谢群成员@栗少@柳制作！
 
-Links to ebooks in English：《[Where time goes:Track your time flow](https://en.shijian.tujunjie.com/)》
+Links to ebooks in English：《[Where time goes:Track your time flow](https://en.shijian.tujunjie.com/)》，感谢@小小李校对！
 
 作者：@涂俊杰，公众号“百天自律行动”
 
