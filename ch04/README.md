@@ -6,6 +6,10 @@ description: 数据导出、可视化、模板化动态图表，时间数据分�
 
 《时间去哪儿了：柳比歇夫时间记录法实践手册》
 
+[免费试听2节课](https://study.163.com/course/courseMain.htm?courseId=1209678842&share=2&shareId=400000000640077)，快速上手aTimeLogger/TimeTrack：
+
+![&#x514D;&#x8D39;&#x8BD5;&#x542C;2&#x8282;](../.gitbook/assets/image%20%286%29.png)
+
 ![&#x626B;&#x7801;&#x770B;&#x65F6;&#x95F4;&#x8BB0;&#x5F55;&#x8BFE;&#x76EE;&#x5F55;&#xFF06;&#x5B66;&#x5458;&#x8BC4;&#x4EF7;](../.gitbook/assets/xin-jian-microsoft-powerpoint-huan-deng-pian-fang-ying-kan-tu-wang%20%281%29.jpg)
 
 > 自己琢磨3个月，不如高手带1天，本书配套10小时视频，扫码报名还能加入VIP指导群！
