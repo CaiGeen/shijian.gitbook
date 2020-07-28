@@ -14,7 +14,7 @@ description: 柳比歇夫时间记录法实践手册，TimeTrack从入门到精�
 
 数据说明：本书中**示例均为脱敏数据**，不具有真实意义，仅供参考。
 
-全文字数：六章，53节，5万字
+全文字数：六章，54节，5万字
 
 免费试听2节视频课：[《aTimeLogger柳比歇夫时间记录法》](https://study.163.com/course/courseMain.htm?courseId=1209678842&share=2&shareId=400000000640077)
 
@@ -22,7 +22,7 @@ description: 柳比歇夫时间记录法实践手册，TimeTrack从入门到精�
 
 软件简写：aTimeLogger（ATM）；TimeTrack（TT）
 
-最新校对时间：2020-3-7 13:16:38
+最新校对时间：2020-7-28 16:14:17
 
 [PDF、EPUB、MOBI电子书下载链接](https://share.weiyun.com/5rv9h5Y)，感谢群成员@栗少@柳制作！
 
