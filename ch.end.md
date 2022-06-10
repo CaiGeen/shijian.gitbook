@@ -8,13 +8,13 @@ description: 记录术不仅仅只有时间记录
 
 如果你能看到这里，我要告诉你，“记录术”我就是无脑推，只要你学，我保证你有所得！
 
-记录什么？绝不仅仅是时间，还可以记录日记，[随笔](http://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247484663&idx=1&sn=04f0a87ec799f88f8cb1020b8b529e65&chksm=eb21b6b3dc563fa51126c73fbd133af2541bbd09fc948bb8ca8280574f2383f8a489ac821292&scene=21#wechat_redirect)，[财务](http://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247484732&idx=1&sn=83d0392be7f72915b1c8590344340998&chksm=eb21b778dc563e6e7015553788a3273e6084ee6cfcd497da9403cd1cb2068ff99af96ea9087d&scene=21#wechat_redirect)，[想法](http://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247484558&idx=1&sn=5f6dbb873b63c920f255c266e48f3956&chksm=eb21b6cadc563fdc776f7ba29ab568cdcf9c1498139520d62e38db9b1e246ec25a482f976dc0&scene=21#wechat_redirect)，[人脉](http://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247484754&idx=1&sn=0ea6e543dadfd3f4d2dd0afcfb0a57fe&chksm=eb21b716dc563e0097c6acbf94e3bed6c128ea6315f5f52105509e4e515c078495e1af82d12e&scene=21#wechat_redirect)，[时间记录](http://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247484615&idx=1&sn=ae0f6350d150da32913199859969a79b&chksm=eb21b683dc563f95794eee235d5e3e4cd671c118a81bb244bec4629805933c38c93d458ce250&scene=21#wechat_redirect)，[网页浏览量](http://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247484675&idx=1&sn=5da93eba9aefd0c6a41f9267d1a61706&chksm=eb21b747dc563e515682df6ad9e8cfa487c5bc98324681abb54145e55273e09e1bdbdd87be36&scene=21#wechat_redirect)，工作日志，[物品清单](http://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247484522&idx=1&sn=bafef93ee00e8e9c22665d6e6a392d54&chksm=eb21b62edc563f380af183357ebcc4d9bd3ed8fc85e69349445ebdfb4f97cc152c614a0db9e3&scene=21#wechat_redirect)等等。
+记录什么？绝不仅仅是时间，还可以记录日记，[随笔](http://mp.weixin.qq.com/s?\_\_biz=MzI3MzU5MDA1OQ==\&mid=2247484663\&idx=1\&sn=04f0a87ec799f88f8cb1020b8b529e65\&chksm=eb21b6b3dc563fa51126c73fbd133af2541bbd09fc948bb8ca8280574f2383f8a489ac821292\&scene=21#wechat\_redirect)，[财务](http://mp.weixin.qq.com/s?\_\_biz=MzI3MzU5MDA1OQ==\&mid=2247484732\&idx=1\&sn=83d0392be7f72915b1c8590344340998\&chksm=eb21b778dc563e6e7015553788a3273e6084ee6cfcd497da9403cd1cb2068ff99af96ea9087d\&scene=21#wechat\_redirect)，[想法](http://mp.weixin.qq.com/s?\_\_biz=MzI3MzU5MDA1OQ==\&mid=2247484558\&idx=1\&sn=5f6dbb873b63c920f255c266e48f3956\&chksm=eb21b6cadc563fdc776f7ba29ab568cdcf9c1498139520d62e38db9b1e246ec25a482f976dc0\&scene=21#wechat\_redirect)，[人脉](http://mp.weixin.qq.com/s?\_\_biz=MzI3MzU5MDA1OQ==\&mid=2247484754\&idx=1\&sn=0ea6e543dadfd3f4d2dd0afcfb0a57fe\&chksm=eb21b716dc563e0097c6acbf94e3bed6c128ea6315f5f52105509e4e515c078495e1af82d12e\&scene=21#wechat\_redirect)，[时间记录](http://mp.weixin.qq.com/s?\_\_biz=MzI3MzU5MDA1OQ==\&mid=2247484615\&idx=1\&sn=ae0f6350d150da32913199859969a79b\&chksm=eb21b683dc563f95794eee235d5e3e4cd671c118a81bb244bec4629805933c38c93d458ce250\&scene=21#wechat\_redirect)，[网页浏览量](http://mp.weixin.qq.com/s?\_\_biz=MzI3MzU5MDA1OQ==\&mid=2247484675\&idx=1\&sn=5da93eba9aefd0c6a41f9267d1a61706\&chksm=eb21b747dc563e515682df6ad9e8cfa487c5bc98324681abb54145e55273e09e1bdbdd87be36\&scene=21#wechat\_redirect)，工作日志，[物品清单](http://mp.weixin.qq.com/s?\_\_biz=MzI3MzU5MDA1OQ==\&mid=2247484522\&idx=1\&sn=bafef93ee00e8e9c22665d6e6a392d54\&chksm=eb21b62edc563f380af183357ebcc4d9bd3ed8fc85e69349445ebdfb4f97cc152c614a0db9e3\&scene=21#wechat\_redirect)等等。
 
-![&#x65F6;&#x95F4;&#x8BB0;&#x5F55;](.gitbook/assets/0.4937300143079717-kan-tu-wang.png)
+![时间记录](.gitbook/assets/0.4937300143079717\_看图王.png)
 
-![&#x4EBA;&#x8109;&#x8BB0;&#x5F55;](.gitbook/assets/0.7097223063552678-kan-tu-wang.png)
+![人脉记录](.gitbook/assets/0.7097223063552678\_看图王.png)
 
-![&#x7F51;&#x9875;&#x6D4F;&#x89C8;](.gitbook/assets/0.6874265115595837-kan-tu-wang.png)
+![网页浏览](.gitbook/assets/0.6874265115595837\_看图王.png)
 
 我相信不少人都尝试过这些记录，但能坚持下来的人并不多，放弃的原因大多是“**没用**”。
 
@@ -78,7 +78,7 @@ description: 记录术不仅仅只有时间记录
 
 **方法没错，是你错了。**
 
-比如，[写日记](http://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247484707&idx=1&sn=a50c52b3da316a7174adc96b0941d15f&chksm=eb21b767dc563e711ea70c56fd310a1da3b781749062cd32b44f1cf70f060bd02d9869abd98e&scene=21#wechat_redirect)时你是写流水账且从来不回看，还是像这样：
+比如，[写日记](http://mp.weixin.qq.com/s?\_\_biz=MzI3MzU5MDA1OQ==\&mid=2247484707\&idx=1\&sn=a50c52b3da316a7174adc96b0941d15f\&chksm=eb21b767dc563e711ea70c56fd310a1da3b781749062cd32b44f1cf70f060bd02d9869abd98e\&scene=21#wechat\_redirect)时你是写流水账且从来不回看，还是像这样：
 
 1. 第一步：写下今天发生的事
 2. 第二步：为发生的事分类，财务/人际/工作等
@@ -102,7 +102,7 @@ description: 记录术不仅仅只有时间记录
 
 及时记录**并非沉迷过去**，恰恰相反的是，记录面向未来存在，它让我能通过历史数据修正自己的下一步行动，将来有机会过得更好。
 
-我的[自传](http://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247484633&idx=1&sn=4aada58de098175ab7a33f6f99d49401&chksm=eb21b69ddc563f8b4f61322a6cb756277c3c8fb780434189f6273798a9bdb42635f175b1dd1d&scene=21#wechat_redirect)，[年报](http://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247484438&idx=1&sn=70dc021c1d0ab16a86625f9bc9677c10&chksm=eb21b652dc563f44e43d0a3e4a2a360747f39dbca58e717c3a5abaff20fe53c561172c774ca0&scene=21#wechat_redirect)，[计划和目标](http://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247484761&idx=1&sn=1a82efaf1c323e75b13b1e5745fc28c1&chksm=eb21b71ddc563e0b38b315878995cd6f26b5265c50e66be2961b7c17382e8b284dc5add5604c&scene=21#wechat_redirect)，大部分都是我从我记录的历史数据中诞生。
+我的[自传](http://mp.weixin.qq.com/s?\_\_biz=MzI3MzU5MDA1OQ==\&mid=2247484633\&idx=1\&sn=4aada58de098175ab7a33f6f99d49401\&chksm=eb21b69ddc563f8b4f61322a6cb756277c3c8fb780434189f6273798a9bdb42635f175b1dd1d\&scene=21#wechat\_redirect)，[年报](http://mp.weixin.qq.com/s?\_\_biz=MzI3MzU5MDA1OQ==\&mid=2247484438\&idx=1\&sn=70dc021c1d0ab16a86625f9bc9677c10\&chksm=eb21b652dc563f44e43d0a3e4a2a360747f39dbca58e717c3a5abaff20fe53c561172c774ca0\&scene=21#wechat\_redirect)，[计划和目标](http://mp.weixin.qq.com/s?\_\_biz=MzI3MzU5MDA1OQ==\&mid=2247484761\&idx=1\&sn=1a82efaf1c323e75b13b1e5745fc28c1\&chksm=eb21b71ddc563e0b38b315878995cd6f26b5265c50e66be2961b7c17382e8b284dc5add5604c\&scene=21#wechat\_redirect)，大部分都是我从我记录的历史数据中诞生。
 
 相信我，当你开始“正确地记录”，你会发现你得到的好处远不止这些！
 
@@ -110,11 +110,10 @@ description: 记录术不仅仅只有时间记录
 
 觉得干写没头绪的话，也可以试试用这套模板：
 
-![&#x6765;&#x81EA;&#x5C11;&#x6570;&#x6D3E;&#x7528;&#x6237;@littlee](.gitbook/assets/0.21183046930210025-kan-tu-wang.png)
+![来自少数派用户@littlee](.gitbook/assets/0.21183046930210025\_看图王.png)
 
 最后，让我们想象一个场景。
 
 > “当你70岁儿孙绕膝，子孙们问你，**您有什么经验可以分享给我的吗？**
 >
 > 你会怎样回答？”
-

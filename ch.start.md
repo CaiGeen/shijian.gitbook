@@ -18,7 +18,7 @@ description: 谨以此书，献给让每个普通人都有选择机会的互联�
 
 说干就干，我用Excel创建了第一张生活记录表。
 
-![&#x7B2C;&#x4E00;&#x7248;&#x751F;&#x6D3B;&#x8BB0;&#x5F55;&#x8868;](.gitbook/assets/qq-jie-tu-20190808223811.png)
+![第一版生活记录表](.gitbook/assets/QQ截图20190808223811.png)
 
 现在回想起来，我一直以为那只是我生命里普通的一天，普通的我为自己种下了一颗普通的种子，不普通的是，今天，这颗种子结果了。
 
@@ -26,21 +26,23 @@ description: 谨以此书，献给让每个普通人都有选择机会的互联�
 
 我记录日记，想法，情绪，随笔，人脉，工作日志，财务收支，时间流向，网页浏览量，物品清单等等。
 
-我每年坚持为自己写一份年报：
+每年坚持为自己写一份年报：
 
 > [个人大数据：涂俊杰2016年的8760小时](https://www.jianshu.com/p/48f17baa5b68)
 >
-> [个人大数据：涂俊杰2017年的8760小时](https://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247484438&idx=1&sn=70dc021c1d0ab16a86625f9bc9677c10&chksm=eb21b652dc563f44e43d0a3e4a2a360747f39dbca58e717c3a5abaff20fe53c561172c774ca0#rd)
+> [个人大数据：涂俊杰2017年的8760小时](https://mp.weixin.qq.com/s?\_\_biz=MzI3MzU5MDA1OQ==\&mid=2247484438\&idx=1\&sn=70dc021c1d0ab16a86625f9bc9677c10\&chksm=eb21b652dc563f44e43d0a3e4a2a360747f39dbca58e717c3a5abaff20fe53c561172c774ca0#rd)
 >
 > [个人大数据：涂俊杰2018年的8760小时](https://mp.weixin.qq.com/s/QZEl3droA1o3KP1RLooBqA)
 >
-> [个人大数据：涂俊杰2019年的8760小时](https://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247486123&idx=1&sn=1b7f16dd569747991fa2560aab452c4e&chksm=eb21b8efdc5631f9e1fc4b9266a18b5e6755ba0bdae86d221473d23bc2e6eac7161013c1b55c&token=1292930385&lang=zh_CN#rd)
+> [个人大数据：涂俊杰2019年的8760小时](https://mp.weixin.qq.com/s?\_\_biz=MzI3MzU5MDA1OQ==\&mid=2247486123\&idx=1\&sn=1b7f16dd569747991fa2560aab452c4e\&chksm=eb21b8efdc5631f9e1fc4b9266a18b5e6755ba0bdae86d221473d23bc2e6eac7161013c1b55c\&token=1292930385\&lang=zh\_CN#rd)
+>
+> [个人大数据：涂俊杰2021年的8760小时](https://mp.weixin.qq.com/s/1Ljqp1QG5XXzhwXse5kbOg)
 
 在所有记录中，最多人赞叹的就是我践行的“柳比歇夫时间记录法”。
 
-从2016年10月到现在，我已经用[TimeTrack](http://timetrack.io/)软件记录了超过20000小时。
+从2016年10月到现在，我已经用[aTimeLogger](http://timetrack.io/)软件记录了超过20000小时。
 
-![&#x65F6;&#x95F4;&#x8BB0;&#x5F55;&#x52A8;&#x6001;&#x56FE;&#x8868;](.gitbook/assets/tim-tu-pian-202003107122158.png)
+![时间记录动态图表](.gitbook/assets/TIM图片202003107122158.png)
 
 回头看4年前的我，只不过是个没人脉没资源的南漂小毛孩儿。
 
@@ -52,9 +54,9 @@ description: 谨以此书，献给让每个普通人都有选择机会的互联�
 
 4年后的我，写出了第一本时间记录电子书。
 
-我已经是TimeTrack软件中国区的群管理，每天都有500位时间记录爱好者在微信群交流心得，我已经能主动控制时间的流向，把娱乐时间从17%降到了6%，我拿到了“时间记录”领域Top1的标签。
+我已经是aTimeLogger软件中国区的群管理，每天都有500位时间记录爱好者在微信群交流心得，我已经能主动控制时间的流向，把娱乐时间从17%降到了6%，我拿到了“时间记录”领域Top1的标签。
 
-![aTimeLogger/TimeTrack&#x7231;&#x597D;&#x8005;&#x5FAE;&#x4FE1;&#x7FA4;](.gitbook/assets/qq-tu-pian-20190808233530.jpg)
+![aTimeLogger/TimeTrack爱好者微信群](.gitbook/assets/QQ图片20190808233530.jpg)
 
 你现在正在哪儿呢？我不知道你在哪里看到这段文字。
 
@@ -70,7 +72,7 @@ description: 谨以此书，献给让每个普通人都有选择机会的互联�
 
 当你开始记录你就打开了“**觉察**”的开关，**你会意识到自己在做什么**，哪些是好的，哪些是不好的。
 
-只有打开了这个开关，你才有可能“改进”。
+只要打开了这个开关，你就有可能“改进”。
 
 3天，5天，10天，可能变化不大，但是3年，5年，10年后，培养“长跑思维”，你会回头感谢现在的自己。
 
@@ -78,9 +80,8 @@ description: 谨以此书，献给让每个普通人都有选择机会的互联�
 
 你开始用实际行动证明“普通人也能为世界留下点儿什么。”
 
-![2014&#x5E74;&#x7684;&#x65E5;&#x8BB0;&#xFF0C;&#x4FE1;&#x4E4B;&#xFF0C;&#x5219;&#x80FD;&#x6210;&#x4E4B;](.gitbook/assets/1565278161-1.jpg)
+![2014年的日记，信之，则能成之](.gitbook/assets/1565278161\(1\).jpg)
 
 人人生而伟大，欢迎加入我们 🙂
 
 _PS.需要进群的同学请加作者微信ffeels申请_
-
