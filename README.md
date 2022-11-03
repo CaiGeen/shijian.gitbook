@@ -18,8 +18,6 @@ description: 柳比歇夫时间记录法实践手册，aTimeLogger从入门到�
 
 演示环境：aTimeLogger Pro（[常见问题答疑](https://shijian.tujunjie.com/ch06/ch06.47)），iOS 12，Windows 10
 
-重要提示：原TimeTrack已于2022年4月更名为aTimeLogger Pro
-
 最新校对时间：2022-6-7 13:56:53
 
 电子书：[PDF、EPUB、MOBI版下载链接](https://share.weiyun.com/5rv9h5Y)，感谢@栗少@柳制作！
@@ -27,6 +25,10 @@ description: 柳比歇夫时间记录法实践手册，aTimeLogger从入门到�
 Links to ebooks in English：《[Where time goes:Track your time flow](https://en.shijian.tujunjie.com/)》，感谢@小小李校对！
 
 作者：@涂俊杰，公众号“百天自律行动”
+
+{% hint style="info" %}
+原TimeTrack已于2022年4月更名为aTimeLogger Pro
+{% endhint %}
 
 ![](.gitbook/assets/about-1.png)
 
