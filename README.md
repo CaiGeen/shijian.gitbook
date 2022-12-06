@@ -12,13 +12,13 @@ description: 柳比歇夫时间记录法实践手册，aTimeLogger从入门到�
 
 数据说明：本书中**示例均为脱敏数据**，不具有真实意义，仅供参考
 
-全文字数：六章，55节，5万字
+全文字数：六章，56节，5万字
 
 免费试听2节视频课：[《aTimeLogger柳比歇夫时间记录法》](https://study.163.com/course/courseMain.htm?courseId=1209678842\&share=2\&shareId=400000000640077)
 
 演示环境：aTimeLogger Pro（[常见问题答疑](https://shijian.tujunjie.com/ch06/ch06.47)），iOS 12，Windows 10
 
-最新校对时间：2022-6-7 13:56:53
+最近更新时间：2022-12-6 15:46:04
 
 电子书：[PDF、EPUB、MOBI版下载链接](https://share.weiyun.com/5rv9h5Y)，感谢@栗少@柳制作！
 
@@ -34,13 +34,9 @@ Links to ebooks in English：《[Where time goes:Track your time flow](https://e
 
 ### 更新日志
 
-#### 2020-7-28 16:14:17
+#### 2022-12-6 15:46:16
 
-新增：PDF、EPUB、MOBI电子书版本
-
-新增：机翻版英文电子书
-
-新增：第54节
+新增：第56节
 
 #### 2022-6-7 13:48:42
 
@@ -53,3 +49,11 @@ Links to ebooks in English：《[Where time goes:Track your time flow](https://e
 新增：顶部外链
 
 删除：章节页面的课程推广
+
+#### 2020-7-28 16:14:17
+
+新增：PDF、EPUB、MOBI电子书版本
+
+新增：机翻版英文电子书
+
+新增：第54节

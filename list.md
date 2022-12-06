@@ -30,6 +30,7 @@
   * [23.系统功能——归档，把不用的分类收起来](https://shijian.tujunjie.com/ch03/ch03.23)
   * [24.系统功能——番茄钟，专注目标达成](https://shijian.tujunjie.com/ch03/ch03.24)
   * [25.系统功能——倒计时，防止时间虚耗](https://shijian.tujunjie.com/ch03/ch03.25)
+  * [56.系统功能——自定义字段，设定时薪](ch03/ch03.56.md)
   * [26.远程操作——怎样用电脑控制手机操作软件](https://shijian.tujunjie.com/ch03/ch03.26)
   * [54.自动记录——用NFC贴纸实现安卓自动记录](ch03/ch03.54.md)
 * [第四章：数据分析](https://shijian.tujunjie.com/ch04)
