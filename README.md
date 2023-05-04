@@ -6,9 +6,9 @@ description: 柳比歇夫时间记录法实践手册，aTimeLogger从入门到�
 
 ### 概述
 
-每个人都随身携带一所时间银行，每天取出86400秒（ATM），而人与人的不同，就在于如何利用这8万秒，你是分秒必争，还是无所事事？[这本电子书](https://shijian.tujunjie.com/)，是我践行柳比歇夫时间记录法的心得。
+每个人都随身携带一所时间银行（ATM），每天取出86400秒，而人与人的不同，就在于如何利用这8万秒，你是分秒必争，还是无所事事？[这本电子书](https://shijian.tujunjie.com/)，是我践行柳比歇夫时间记录法的心得。
 
-分享我是如何通过aTimeLogger Pro/aTimeLogger软件记录时间，通过真实记录的数据认识自己，进入“记录-归类-分析-改变”正向循环，掌握自己的86400秒，最终达成目标的方法。
+分享我是如何通过aTimeLogger Pro/aTimeLogger软件记录时间，通过真实记录的数据认识自己，进入“记录-归类-分析-改变”正向循环，觉察自己的86400秒，最终形成习惯，不需要“坚持”的方法。
 
 数据说明：本书中**示例均为脱敏数据**，不具有真实意义，仅供参考
 
@@ -16,15 +16,15 @@ description: 柳比歇夫时间记录法实践手册，aTimeLogger从入门到�
 
 免费试听2节视频课：[《aTimeLogger柳比歇夫时间记录法》](https://study.163.com/course/courseMain.htm?courseId=1209678842\&share=2\&shareId=400000000640077)
 
-演示环境：aTimeLogger Pro（[常见问题答疑](https://shijian.tujunjie.com/ch06/ch06.47)），iOS 12，Windows 10
+演示环境：aTimeLogger Pro（[常见问题答疑](https://shijian.tujunjie.com/ch06/ch06.47)），iOS 16，Windows 10
 
-最近更新时间：2022-12-6 15:46:04
+最近更新时间：2023-5-4 16:17:34
 
 电子书：[PDF、EPUB、MOBI版下载链接](https://share.weiyun.com/5rv9h5Y)，感谢@栗少@柳制作！
 
-Links to ebooks in English：《[Where time goes:Track your time flow](https://en.shijian.tujunjie.com/)》，感谢@小小李校对！
+E-books in English：《[Where time goes:Track your time flow](https://en.shijian.tujunjie.com/)》，感谢@小小李校对！
 
-作者：@涂俊杰，公众号“百天自律行动”
+作者：[@涂俊杰](https://nextjs-notion-starter-kit-peach-seven.vercel.app/)，公众号“百天自律行动”
 
 {% hint style="info" %}
 原TimeTrack已于2022年4月更名为aTimeLogger Pro
@@ -33,6 +33,10 @@ Links to ebooks in English：《[Where time goes:Track your time flow](https://e
 ![](.gitbook/assets/about-1.png)
 
 ### 更新日志
+
+#### 2023-5-4 16:18:10
+
+优化：批注、特别推荐篇内容，以及文字细节
 
 #### 2022-12-6 15:46:16
 
