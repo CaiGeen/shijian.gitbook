@@ -2,7 +2,7 @@
 description: aTimeLogger/aTimeLogger Pro都是一次支付永久使用
 ---
 
-# 购买软件
+# 💰 购买软件
 
 安卓aTimeLogger＆aTimeLogger Pro用户[点击链接](https://www.kuaifaka.net/purchasing?link=YACAi3)或扫下图二维码升级。
 
