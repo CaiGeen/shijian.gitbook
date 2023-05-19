@@ -14,7 +14,7 @@
   * [8.用纸笔快速开始](ch01/ch01.08.md)
   * [9.时间电子账和手账的区别](ch01/ch01.09.md)
   * [10.开始记录前最后劝你一次](ch01/ch01.10.md)
-* [🖥️ 第二章：软件操作](ch02/README.md)
+* [💻 第二章：软件操作](ch02/README.md)
   * [11.一篇文章讲清楚aTimeLogger](ch02/ch02.11.md)
   * [12.aTimeLogger，用起来再说](ch02/ch02.12.md)
   * [13.aTimeLogger的5个核心功能](ch02/ch02.13.md)
