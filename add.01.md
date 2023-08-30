@@ -10,7 +10,7 @@ description: 只推荐靠谱的人和课
 
 除了网易云课堂的时间记录课，我还有一门职场效率课。
 
-* [《  互联网职场效率手册》](https://www.aikewang.com/course/128)
+* [《互联网职场效率手册》](https://www.aikewang.com/course/128)
 
 ![扫码报名网易职场课](.gitbook/assets/TIM图片120200307125757.jpg)
 
