@@ -65,6 +65,6 @@
   * [53.把时间记录法运用到生活中](https://shijian.tujunjie.com/ch06/ch06.53)
   * [55.时隔3年的aTimeLogger分类更新](ch06/ch06.55.md)
 * [后记](https://shijian.tujunjie.com/ch.end)
-* [批注](review.md)
+* [读后感](review.md)
 * [购买软件](add.02.md)
 * [特别推荐](https://shijian.tujunjie.com/add.01)
